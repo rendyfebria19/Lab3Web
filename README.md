@@ -1,3 +1,4 @@
+![7](https://user-images.githubusercontent.com/59887134/114166345-d209e380-9957-11eb-9245-906c533f6738.png)
 # Lab3Web
 
 - Nama : Rendy Febrian Maangihut
@@ -29,7 +30,7 @@
 - Membuat Table
 > Membuat Table di file baru ![6](https://user-images.githubusercontent.com/59887134/114165651-f31e0480-9956-11eb-848b-f0705e49a9ff.png)
 
-> Table Berhasil ditambahkan dengan seperti no, Fakultas, dan program studi![7](https://user-images.githubusercontent.com/59887134/114165889-3e381780-9957-11eb-8762-ec46fc63278a.png)
+> Table Berhasil ditambahkan dengan seperti no, Fakultas, dan program studi
 
 > menggabungkan sel data pada fakultas menggunakan atribut rowspan![8](https://user-images.githubusercontent.com/59887134/114166164-98d17380-9957-11eb-8546-ca37fc4ec842.png)
 
