@@ -30,7 +30,8 @@
 - Membuat Table
 > Membuat Table di file baru ![6](https://user-images.githubusercontent.com/59887134/114165651-f31e0480-9956-11eb-848b-f0705e49a9ff.png)
 
-> Table Berhasil ditambahkan dengan seperti no, Fakultas, dan program studi
+> Table Berhasil ditambahkan ![7](https://user-images.githubusercontent.com/59887134/114166520-07aecc80-9958-11eb-8561-f1ba0e868b5e.png)
+
 
 > menggabungkan sel data pada fakultas menggunakan atribut rowspan![8](https://user-images.githubusercontent.com/59887134/114166164-98d17380-9957-11eb-8546-ca37fc4ec842.png)
 
