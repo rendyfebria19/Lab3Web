@@ -1,4 +1,3 @@
-![7](https://user-images.githubusercontent.com/59887134/114166345-d209e380-9957-11eb-9245-906c533f6738.png)
 # Lab3Web
 
 - Nama : Rendy Febrian Maangihut
