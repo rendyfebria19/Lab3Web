@@ -13,7 +13,7 @@
 # Laporan Praktikum
 
 - Membuat LIST
-1 Membuat Ordered List di subline![1](https://user-images.githubusercontent.com/59887134/114163765-c23cd000-9954-11eb-8759-def072016b7a.png)
+1. Membuat Ordered List di subline![1](https://user-images.githubusercontent.com/59887134/114163765-c23cd000-9954-11eb-8759-def072016b7a.png)
 
 2. ordered List Berhasil ditambahkan pada Browser![2](https://user-images.githubusercontent.com/59887134/114164189-34151980-9955-11eb-8dc0-3ef091c47deb.png)
 
